@@ -3,3 +3,4 @@ sphinx_rtd_theme
 recommonmark==0.4.0
 mock
 moto
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
